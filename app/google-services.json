@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "458263439457",
+    "project_id": "gceplus-b343a",
+    "storage_bucket": "gceplus-b343a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458263439457:android:f749ec3934eaea8855e220",
+        "android_client_info": {
+          "package_name": "com.phinion.gcepluselearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458263439457-1dpig5sl8kusve90ac8nrjcoh5vfqg5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phinion.gcepluselearning",
+            "certificate_hash": "fd9fbe776a89fa45ecb5ac9931b1a8f529425ae9"
+          }
+        },
+        {
+          "client_id": "458263439457-jph6m9f662hjvjphrn4grvf5mmncfh28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBu9WXxoaEF8mYGqVoeBr5E9L2QGMcjdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458263439457-jph6m9f662hjvjphrn4grvf5mmncfh28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GCE Plus</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="subjects">Subjects</string>
+    <string name="accounting">Accounting</string>
+    <string name="_0512">0512</string>
+    <string name="app_id">ca-app-pub-6163607674199787~2446160702</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="hint_message">Enter your message here</string>
+    <string name="enter_text_here">Message</string>
+    <string name="username">Username</string>
+    <string name="chat_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="third_fragment">Third Fragment</string>
+
+</resources>

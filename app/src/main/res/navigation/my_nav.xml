@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.phinion.gcepluselearning.fragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/eLearningFragment"
+        android:name="com.phinion.gcepluselearning.fragments.ELearningFragment"
+        android:label="fragment_e_learning"
+        tools:layout="@layout/fragment_e_learning" />
+
+
+    <fragment
+        android:id="@+id/mcqPerformanceFragment"
+        android:name="com.phinion.gcepluselearning.fragments.McqPerformanceFragment"
+        android:label="fragment_mcq"
+        tools:layout="@layout/fragment_mcq_performance" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.phinion.gcepluselearning.fragments.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>
